@@ -6,7 +6,7 @@
 using namespace std;
 
 
-#define MIN_BALANCE 500
+int MIN_BALANCE = 1;
 class InsufficientFunds{};
 
 class Account
